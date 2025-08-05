@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">J'habite à Nancy, France<br><br>- 🔭 Je recherche un contrat d'apprentissage de janvier 2025 à septembre 2027<br>- 📚 J'étudie à Epitech, et je me dirige vers un métier dans la Cybersécurité<br>- ⚡ Sur mon temps libre, j'aime me renseigner sur les nouvelles techno et l'astronomie</p>
+<p align="left">J'habite à Nancy, France<br><br>- 🔭 Je suis en contrat d'apprentissage jusqu'en septembre 2027<br>- 📚 J'étudie à Epitech, et je me dirige vers un métier dans la Cybersécurité<br>- ⚡ Sur mon temps libre, j'aime me renseigner sur les nouvelles techno et l'astronomie</p>
 
 ###
 
